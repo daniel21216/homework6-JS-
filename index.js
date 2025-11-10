@@ -5,7 +5,6 @@ function filterBy(array, type) {
     });
 }
 
-// Примеры использования:
 
 // Пример 1: Фильтруем строки
 const array1 = ['hello', 'world', 23, '23', null];
